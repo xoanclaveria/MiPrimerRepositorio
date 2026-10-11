@@ -1,0 +1,9 @@
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos de configuración local
+.env
+
+# Carpetas generadas
+build/
