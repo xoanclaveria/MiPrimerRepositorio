@@ -1,0 +1,3 @@
+titulo=El nombre del viento
+autor=Patrick Rothfuss
+isbn=9788401352836
