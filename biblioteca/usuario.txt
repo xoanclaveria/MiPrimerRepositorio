@@ -1,1 +1,2 @@
 nombre=Usuario de prueba
+email=usuario@ejemplo.com
