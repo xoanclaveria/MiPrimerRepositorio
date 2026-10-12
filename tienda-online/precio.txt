@@ -1,0 +1,1 @@
+Validar el precio antes de confirmar la compra
